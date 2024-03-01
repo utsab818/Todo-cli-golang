@@ -1,7 +1,0 @@
-./go.mod
-./go.sum
-
-./Makefile
-
-./todo.exe
-.todos.json
