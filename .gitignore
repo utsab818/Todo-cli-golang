@@ -1,7 +1,7 @@
-go.mod
-go.sum
+./go.mod
+./go.sum
 
-Makefile
+./Makefile
 
-todo.exe
+./todo.exe
 .todos.json
