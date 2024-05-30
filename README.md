@@ -23,7 +23,7 @@
   ![image](https://github.com/utsab818/Todo-cli-golang/assets/66249507/413a364f-4c07-4524-8a61-f5b6f7bb8cc3)
 
 ### make the task as completed
-    ./todo complete=<index of task>
+    ./todo -complete=<index of task>
 
 ### delete the task
-    ./todo del=<index of task>
+    ./todo -del=<index of task>
